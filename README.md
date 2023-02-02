@@ -1,6 +1,6 @@
-# Pete-Portfolio-Thinkful
+# Thinkful Assessment: Build Your Portfolio Web Page
 
-Pete-Portfolio-Thinkful is a basic, one-page wbsite. 
+Pete-Portfolio-Thinkful is a basic, one-page website. 
 
 # Project Description
 Pete Thinkful, an artist, has approached your team to help him build a web portfolio to serve as his online business card. The designer on your team provided the following user interface mockup.
@@ -33,5 +33,5 @@ Your first task is to complete the HTML code for Pete's portfolio page. Then you
 7. The contents of the header and the footer should be horizontally centered on the page.
 8. Anchor tags should have a color of #d62828. On hover, they should change their color to #f77f00.
 
-
-
+# Validating the HTML
+<img width="1236" alt="Screen Shot 2023-02-01 at 10 44 57 PM" src="https://user-images.githubusercontent.com/123777132/216226646-3909ed5e-0baf-4c31-bf5b-0b8049fcf01a.png">
