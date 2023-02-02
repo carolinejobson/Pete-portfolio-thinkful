@@ -13,7 +13,7 @@ In this project, you will translate the design above into HTML and CSS code.
 Your first task is to complete the HTML code for Pete's portfolio page. Then you will style the page with CSS. Next, you will use a HTML validator to verify the HTML page for syntax errors. Finally, you will display your work on GitHub.io.
 
 # Semantic Page Scaffolding
-You should use the header and nav semantic containers to create the header and navigation bar, respectively. Each navigation link (About, Portfolio, and Contact) should be an anchor element. Complete the Portfolio and Contact sections, too.
+You should use the header and nav semantic containers to create the header and navigation bar, respectively. Each navigation link (About, Portfolio, and Contact) should be an anchor element. Complete the Portfolio, Contact, and Footer sections, too.
 
 # Additional HTML5 Requirements
 1. Pete's image can be found in the images/ folder, titled pete-thinkful.png. You should set the alt text of the image element to Pete Thinkful.
