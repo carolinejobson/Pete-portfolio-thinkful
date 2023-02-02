@@ -24,7 +24,7 @@ You should use the header and nav semantic containers to create the header and n
 6. "LinkedIn," "Instagram," and "Pinterest" should be displayed as a numbered list of anchor elements. The href values may be left empty.
 7. The About, Hi! I'm Pete Thinkful, and Pete's Background headings, as well as Pete's image, should be horizontally centered on the page.
 8. The About heading should use a larger font size than the Hi! I'm Pete Thinkful and Pete's Background subheadings.
-9. Pete's image should be completely round and have a border that is 2px wide with a color of #003049. To achieve this, you may add the necessary CSS rules to the .image-circle class that's already provided for you.
+9. Pete's image should be completely round and have a border that is 2px wide with a color of #003049. 
 
 # Styling the Web Page
 Now that you have completed the HTML for the page, it's time to style the page, section by section. You will implement the remainder of the CSS to achieve the design shown in the mock, as detailed below.
@@ -33,11 +33,10 @@ Now that you have completed the HTML for the page, it's time to style the page, 
 1. The styling requirements for the Portfolio section are as follows:
 2. The Portfolio heading, project name (such as Abstract Red), and project image should be horizontally centered on the page.
 3. The Portfolio heading should use a larger font size than the project names.
-4. The styling requirements for the Contact section are as follows:
-5. The Contact heading should be horizontally centered on the page.
-6. The background color of the page should be set to #eae2b7.
-7. The contents of the header and the footer should be horizontally centered on the page.
-8. Anchor tags should have a color of #d62828. On hover, they should change their color to #f77f00.
+4. The Contact heading should be horizontally centered on the page.
+5. The background color of the page should be set to #eae2b7.
+6. The contents of the header and the footer should be horizontally centered on the page.
+7. Anchor tags should have a color of #d62828. On hover, they should change their color to #f77f00.
 
 # Validating the HTML
 Now, you will use an HTML validator to validate your web page. An HTML validator is a quality-assurance tool that can detect common syntax errors such as extra spaces, open tags, or missing quotation marks. These syntax errors could cause a page to render correctly in one browser but not in another. You can use an HTML validator to automatically verify your HTML page for syntax errors. You can then correct any coding mistakes identified by the validator program.
