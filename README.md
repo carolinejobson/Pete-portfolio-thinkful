@@ -1,6 +1,6 @@
 # Thinkful Assessment: Build Your Portfolio Web Page
 
-Pete-Portfolio-Thinkful is a basic, one-page website. 
+Pete-portfolio-thinkful is a basic, one-page website. 
 
 # Project Description
 Pete Thinkful, an artist, has approached your team to help him build a web portfolio to serve as his online business card. The designer on your team provided the following user interface mockup.
